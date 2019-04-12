@@ -1,0 +1,4 @@
+1. Extract the .zip file CivicPlusGUI.zip
+2. Go into the CivicPlusGUIApp folder
+3. Open (double-click) the CivicPlusGUIApp.sln file -  this requires that Visual Studios is installed
+4. Press F5 to run the app
